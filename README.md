@@ -21,13 +21,14 @@ Wymagana jest podstawowa wiedza związana z systemami Linux/Unix. Uczestnik musi
 4.	CLI Docker
     * [03 - Pierwsze kroki](https://github.com/inleo-pl/Warsztaty-Docker-Fundamentals/blob/master/03-Pierwsze-kroki)
 5.	Storage w kontekście konteneryzacji
-6.	Obrazy i Rejestry obrazów Dockera
+6.	Obrazy i Rejestry
     * [04 - Obrazy i Docker Hub](https://github.com/inleo-pl/Warsztaty-Docker-Fundamentals/blob/master/04-Obrazy-i-Docker-Hub)
+    * [05 - Prywatny rejestr](https://github.com/inleo-pl/Warsztaty-Docker-Fundamentals/blob/master/05-Prywatny-rejestr)
 7.	Tworzenie i składnia plików Dockerfile
-    * [05 - Dockerfile](https://github.com/inleo-pl/Warsztaty-Docker-Fundamentals/blob/master/05-Dockerfile)
+    * [06 - Dockerfile](https://github.com/inleo-pl/Warsztaty-Docker-Fundamentals/blob/master/06-Dockerfile)
 8.	Docker a sieć TCP/IP
-    * [06 - Bridge](https://github.com/inleo-pl/Warsztaty-Docker-Fundamentals/blob/master/06-Bridge)
-    * [07 - Macvlan](https://github.com/inleo-pl/Warsztaty-Docker-Fundamentals/blob/master/07-Macvlan)
+    * [07 - Bridge](https://github.com/inleo-pl/Warsztaty-Docker-Fundamentals/blob/master/07-Bridge)
+    * [08 - Macvlan](https://github.com/inleo-pl/Warsztaty-Docker-Fundamentals/blob/master/08-Macvlan)
 9.	Koncepcja mikroserwisów
 
 ## Kiedy, co i jak?
