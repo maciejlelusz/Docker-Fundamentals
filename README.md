@@ -21,7 +21,7 @@ Wymagana jest podstawowa wiedza związana z systemami Linux/Unix. Uczestnik musi
 4.	CLI Docker
   * [03 - Pierwsze kroki](https://github.com/inleo-pl/Warsztaty-Docker-Fundamentals/blob/master/03-Pierwsze-kroki)
 5.	Obrazy i Rejestry obrazów Dockera
-  * [03 - Obrazy i Docker Hub](https://github.com/inleo-pl/Warsztaty-Docker-Fundamentals/blob/master/04-Obrazy-i-Docker-Hub)
+  * [04 - Obrazy i Docker Hub](https://github.com/inleo-pl/Warsztaty-Docker-Fundamentals/blob/master/04-Obrazy-i-Docker-Hub)
 6.	Tworzenie i składnia plików Dockerfile
 7.	Storage w kontekście konteneryzacji
 8.	Docker a sieć TCP/IP
@@ -33,4 +33,4 @@ Najbliższy możliwy termin i prowadzący podany jest po zebraniu grupy. Warszta
 
 Warsztaty będą odbywać się w maksymalnie pięcio osobowym (wraz z prowadzącym) składzie w Warszawie. Podczas zajęć nie pozwolimy ci umrzeć z głodu – będzie ciągła przerwa kawowa (kawa/herbata/ciacha), oraz w połowie dnia obiad. Na koniec wydajemy silky smooth certyfikat ukończenia z Twoim imieniem i nazwiskiem, potwierdzający udział w warsztatach. Zapraszamy!
 
-Więcej informacji znjadziesz tutaj: https://inleo.pl/produkt/docker-fundamentals-1-dzien/
+Więcej informacji znjadziesz tutaj: https://inleo.pl/produkt/docker-fundamentals-1-dzien/.
