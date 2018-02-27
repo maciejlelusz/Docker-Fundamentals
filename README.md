@@ -26,6 +26,8 @@ Wymagana jest podstawowa wiedza związana z systemami Linux/Unix. Uczestnik musi
 7.	Tworzenie i składnia plików Dockerfile
     * [05 - Dockerfile](https://github.com/inleo-pl/Warsztaty-Docker-Fundamentals/blob/master/05-Dockerfile)
 8.	Docker a sieć TCP/IP
+    * [06 - Bridge](https://github.com/inleo-pl/Warsztaty-Docker-Fundamentals/blob/master/06-Bridge)
+    * [05 - Macvlan](https://github.com/inleo-pl/Warsztaty-Docker-Fundamentals/blob/master/07-Macvlan)
 9.	Koncepcja mikroserwisów i pierwsza aplikacja
 
 ## Kiedy, co i jak?
