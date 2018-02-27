@@ -13,16 +13,16 @@ Wymagana jest podstawowa wiedza związana z systemami Linux/Unix. Uczestnik musi
 
 ## Agenda
 
-1. Koncepcja systemów kontenerowych i różnice w porównaniu do twardej wirtualizacji
-2. Architektura platformy docker w podziale na komponenty i komunikację między nimi
+1. Koncepcja systemów kontenerowych i różnice w porównaniu do wirtualizacji
+2. Architektura platformy Docker w podziale na komponenty i ich rolę
 3. Tworzenie i składnia plików Dockerfile
 4. Metody uruchamiania kontenerów i usług
 5. Architektura mikroserwisów
-6. Efemeral i Persistent Storage
+6. Ephemeral i Persistent Storage
 7. Docker a sieć TCP/IP
 8. Porty i usługi
-9. Prywatne repozytorium obrazów dockera
-10. Zdalne CLI dockera
+9. Publiczne i prywatne repozytorium obrazów Dockera
+10. CLI Docker
 
 ## Kiedy, co i jak?
 
