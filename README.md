@@ -1,4 +1,4 @@
-# Training - Docker Fundamentals
+# Workshop - Docker Fundamentals
 Repozytorium plików do jedniodniowego warsztatu Docker Fundamentals.
 
 ## Dla kogo?
