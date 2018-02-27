@@ -1,4 +1,4 @@
-# Workshop - Docker Fundamentals
+# Warsztaty - Docker Fundamentals
 Repozytorium plików do jedniodniowego warsztatu Docker Fundamentals.
 
 ## Dla kogo?
@@ -15,10 +15,13 @@ Wymagana jest podstawowa wiedza związana z systemami Linux/Unix. Uczestnik musi
 
 1.	Koncepcja konteneryzacji i różnice w porównaniu do wirtualizacji
 2.	Architektura platformy Docker w podziale na komponenty i ich rolę
-3.	Koncepcja mikroserwisów
-4.	Repozytoria obrazów Dockera
-5.	Metody uruchamiania kontenerów
-6.	CLI Docker
+3.	Metody uruchamiania kontenerów
+  * [01 - Połączenie do lab](https://github.com/inleo-pl/Workshop-Docker-Fundamentals/blob/master/01-Polaczenie-do-lab)
+  * [02 - Instalacja Docker](https://github.com/inleo-pl/Workshop-Docker-Fundamentals/blob/master/02-Instalacja-Docker)
+4.	CLI Docker
+  * [03 - Pierwsze kroki](https://github.com/inleo-pl/Workshop-Docker-Fundamentals/blob/master/03-Pierwsze-kroki)
+5.	Repozytoria obrazów Dockera
+6.	Koncepcja mikroserwisów
 7.	Tworzenie i składnia plików Dockerfile
 8.	Storage w kontekście konteneryzacji
 9.	Docker a sieć TCP/IP
