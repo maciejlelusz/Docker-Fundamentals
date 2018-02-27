@@ -16,14 +16,15 @@ Wymagana jest podstawowa wiedza związana z systemami Linux/Unix. Uczestnik musi
 1.	Koncepcja konteneryzacji i różnice w porównaniu do wirtualizacji
 2.	Architektura platformy Docker w podziale na komponenty i ich rolę
 3.	Metody uruchamiania kontenerów
-  * [01 - Połączenie do lab](https://github.com/inleo-pl/Warsztaty-Docker-Fundamentals/blob/master/01-Polaczenie-do-lab)
-  * [02 - Instalacja Docker](https://github.com/inleo-pl/Warsztaty-Docker-Fundamentals/blob/master/02-Instalacja-Docker)
+    * [01 - Połączenie do lab](https://github.com/inleo-pl/Warsztaty-Docker-Fundamentals/blob/master/01-Polaczenie-do-lab)
+    * [02 - Instalacja Docker](https://github.com/inleo-pl/Warsztaty-Docker-Fundamentals/blob/master/02-Instalacja-Docker)
 4.	CLI Docker
-  * [03 - Pierwsze kroki](https://github.com/inleo-pl/Warsztaty-Docker-Fundamentals/blob/master/03-Pierwsze-kroki)
-5.	Obrazy i Rejestry obrazów Dockera
-  * [04 - Obrazy i Docker Hub](https://github.com/inleo-pl/Warsztaty-Docker-Fundamentals/blob/master/04-Obrazy-i-Docker-Hub)
-6.	Tworzenie i składnia plików Dockerfile
-7.	Storage w kontekście konteneryzacji
+    * [03 - Pierwsze kroki](https://github.com/inleo-pl/Warsztaty-Docker-Fundamentals/blob/master/03-Pierwsze-kroki)
+5.	Storage w kontekście konteneryzacji
+6.	Obrazy i Rejestry obrazów Dockera
+    * [04 - Obrazy i Docker Hub](https://github.com/inleo-pl/Warsztaty-Docker-Fundamentals/blob/master/04-Obrazy-i-Docker-Hub)
+7.	Tworzenie i składnia plików Dockerfile
+    * [05 - Dockerfile](https://github.com/inleo-pl/Warsztaty-Docker-Fundamentals/blob/master/05-Dockerfile)
 8.	Docker a sieć TCP/IP
 9.	Koncepcja mikroserwisów i pierwsza aplikacja
 
