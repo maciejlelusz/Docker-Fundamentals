@@ -51,3 +51,4 @@ Więcej informacji znjadziesz tutaj: https://inleo.pl/produkt/docker-fundamental
  * https://docs.docker.com/engine/userguide/eng-image/dockerfile_best-practices/
  * https://github.com/FuriKuri/docker-best-practices
  * https://www.dockerbook.com/
+ * http://microservices.io/patterns/microservices.html
