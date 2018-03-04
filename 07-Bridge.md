@@ -1,3 +1,5 @@
+Sieć za pomocą bridge:
+```
 sudo docker network ls
 sudo docker run -dit --name alpine1 alpine ash
 sudo docker run -dit --name alpine2 alpine ash
@@ -15,7 +17,9 @@ sudo docker attach alpine2
   ping -c 2 [alpine1-IP]
   ping -c 2 alpine1
   exit
-
+```
+Różne interfejsy bridge i komunikacja pomiędzy nimi:
+```
 sudo docker network create --driver bridge alpine-net
 sudo docker network ls
 sudo docker network inspect alpine-net
@@ -32,7 +36,10 @@ sudo docker container attach alpine1
   ping -c 2 alpine4
   ping -c 2 alpine1
   ping -c 2 alpine3
-
+```
+Sprzątanie:
+```
 sudo docker container stop alpine1 alpine2 alpine3 alpine4
 sudo docker container rm alpine1 alpine2 alpine3 alpine4
 sudo docker network rm alpine-net
+```
