@@ -16,7 +16,6 @@ EXPOSE 80
 Budujemy:
 ```
 sudo docker build -t "[user]/static" .
-sudo docker build -t "[user]/static:v1" .
 ```
 Zakładamy GitHub (https://github.com) i tworzymy repo z plikiem Dockerfile, a następnie budujemy przy jego użyciu:
 ```
