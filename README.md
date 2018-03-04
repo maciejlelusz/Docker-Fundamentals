@@ -23,7 +23,7 @@ Wymagana jest podstawowa wiedza związana z systemami Linux/Unix. Uczestnik musi
 4.	CLI Docker
     * [03 - Pierwsze kroki](https://github.com/inleo-pl/Warsztaty-Docker-Fundamentals/blob/master/03-Pierwsze-kroki.md)
 5.	Storage w kontekście konteneryzacji
-    * [04 - Wolmenty i punkty montowania](https://github.com/inleo-pl/Warsztaty-Docker-Fundamentals/blob/master/04-Wolumeny-i-punkty-montowania.md)
+    * [04 - Wolumeny i punkty montowania](https://github.com/inleo-pl/Warsztaty-Docker-Fundamentals/blob/master/04-Wolumeny-i-punkty-montowania.md)
 6.	Obrazy i Rejestry
     * [05 - Obrazy i Docker Hub](https://github.com/inleo-pl/Warsztaty-Docker-Fundamentals/blob/master/05-Obrazy-i-Docker-Hub.md)
     * [06 - Prywatny rejestr](https://github.com/inleo-pl/Warsztaty-Docker-Fundamentals/blob/master/06-Prywatny-rejestr.md)
