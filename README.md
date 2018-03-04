@@ -18,19 +18,19 @@ Wymagana jest podstawowa wiedza związana z systemami Linux/Unix. Uczestnik musi
 1.	Koncepcja konteneryzacji i różnice w porównaniu do wirtualizacji
 2.	Architektura platformy Docker w podziale na komponenty i ich rolę
 3.	Metody uruchamiania kontenerów
-    * [01 - Połączenie do lab](https://github.com/inleo-pl/Warsztaty-Docker-Fundamentals/blob/master/01-Polaczenie-do-lab)
-    * [02 - Instalacja Docker](https://github.com/inleo-pl/Warsztaty-Docker-Fundamentals/blob/master/02-Instalacja-Docker)
+    * [01 - Połączenie do lab](https://github.com/inleo-pl/Warsztaty-Docker-Fundamentals/blob/master/01-Polaczenie-do-lab.md)
+    * [02 - Instalacja Docker](https://github.com/inleo-pl/Warsztaty-Docker-Fundamentals/blob/master/02-Instalacja-Docker.md)
 4.	CLI Docker
-    * [03 - Pierwsze kroki](https://github.com/inleo-pl/Warsztaty-Docker-Fundamentals/blob/master/03-Pierwsze-kroki)
+    * [03 - Pierwsze kroki](https://github.com/inleo-pl/Warsztaty-Docker-Fundamentals/blob/master/03-Pierwsze-kroki.md)
 5.	Storage w kontekście konteneryzacji
 6.	Obrazy i Rejestry
-    * [04 - Obrazy i Docker Hub](https://github.com/inleo-pl/Warsztaty-Docker-Fundamentals/blob/master/04-Obrazy-i-Docker-Hub)
-    * [05 - Prywatny rejestr](https://github.com/inleo-pl/Warsztaty-Docker-Fundamentals/blob/master/05-Prywatny-rejestr)
+    * [04 - Obrazy i Docker Hub](https://github.com/inleo-pl/Warsztaty-Docker-Fundamentals/blob/master/04-Obrazy-i-Docker-Hub.md)
+    * [05 - Prywatny rejestr](https://github.com/inleo-pl/Warsztaty-Docker-Fundamentals/blob/master/05-Prywatny-rejestr.md)
 7.	Tworzenie i składnia plików Dockerfile
-    * [06 - Dockerfile](https://github.com/inleo-pl/Warsztaty-Docker-Fundamentals/blob/master/06-Dockerfile)
+    * [06 - Dockerfile](https://github.com/inleo-pl/Warsztaty-Docker-Fundamentals/blob/master/06-Dockerfile.md)
 8.	Docker a sieć TCP/IP
-    * [07 - Bridge](https://github.com/inleo-pl/Warsztaty-Docker-Fundamentals/blob/master/07-Bridge)
-    * [08 - Macvlan](https://github.com/inleo-pl/Warsztaty-Docker-Fundamentals/blob/master/08-Macvlan)
+    * [07 - Bridge](https://github.com/inleo-pl/Warsztaty-Docker-Fundamentals/blob/master/07-Bridge.md)
+    * [08 - Macvlan](https://github.com/inleo-pl/Warsztaty-Docker-Fundamentals/blob/master/08-Macvlan.md)
 9.	Koncepcja mikroserwisów
 
 ## Kiedy, co i jak?
