@@ -20,6 +20,8 @@ sudo docker attach alpine2
 ```
 Różne interfejsy bridge i komunikacja pomiędzy nimi:
 ```
+sudo docker container stop alpine1 alpine2 
+sudo docker container rm alpine1 alpine2
 sudo docker network create --driver bridge alpine-net
 sudo docker network ls
 sudo docker network inspect alpine-net
