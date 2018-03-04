@@ -9,6 +9,7 @@ sudo docker run -i -t ubuntu /bin/bash
   apt-get update && apt-get upgrade && apt-get install vim
   vim
   exit
+```
 Kontener z nazwą:
 ```
 sudo docker ps -a
