@@ -22,16 +22,16 @@ docker exec -t -i devtest2 /bin/sh
   exit
 sudo ls /var/lib/docker/volumes/my-vol/_data
 ```
-Sprzątanko:
-```
-docker container stop devtest devtest2
-docker container rm devtest devtest2
-docker volume rm my-vol
-```
 Dostęp do plików Docker Engine za pomocą mount typu bind:
 ```
-docker run -d -it --name devtest --mount type=bind,source=/tmp,target=/app nginx:latest
-docker exec -t -i devtest /bin/sh
+docker run -d -it --name devtest3 --mount type=bind,source=/tmp,target=/app nginx:latest
+docker exec -t -i devtest3 /bin/sh
   ls -alh /app
   exit
+```
+Sprzątanko:
+```
+docker container stop devtest devtest2 devtest3
+docker container rm devtest devtest2 devtest3
+docker volume rm my-vol
 ```
