@@ -8,7 +8,7 @@ sudo docker exec my-macvlan-alpine ip route
 sudo docker container stop my-macvlan-alpine
 sudo docker network rm my-macvlan-net
 ```
-Powołanie interjesu Macvlan z sterownikiem 821q:
+Powołanie interjesu Macvlan 821q:
 ```
 sudo docker network create -d macvlan --subnet=172.16.86.0/24 --gateway=172.16.86.1 -o parent=ens2.10 my-8021q-macvlan-net
 sudo docker run --rm -itd --network my-8021q-macvlan-net --name my-second-macvlan-alpine alpine:latest ash
