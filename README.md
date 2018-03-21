@@ -1,6 +1,6 @@
 ![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg)
 
-# Warsztaty - Docker Fundamentals
+# Warsztat - Docker Fundamentals
 Repozytorium plików do jedniodniowego warsztatu Docker Fundamentals.
 
 ## Dla kogo?
