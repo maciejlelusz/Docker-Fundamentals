@@ -15,21 +15,21 @@ Wymagana jest podstawowa wiedza związana z systemami Linux/Unix. Uczestnik musi
 
 ## Agenda
 
-1.	Koncepcja konteneryzacji i różnice w porównaniu do wirtualizacji
-2.	Architektura platformy Docker w podziale na komponenty i ich rolę
+1.	[Kilka słów o Docker, koncepcja konteneryzacji i różnice w porównaniu do wirtualizacji](https://inleo.pl/blog/wprowadzenie-do-konteneryzacji-1/)
+2.	[Architektura platformy Docker w podziale na komponenty i ich rolę](https://inleo.pl/blog/wprowadzenie-do-konteneryzacji-2/)
 3.	Metody uruchamiania kontenerów
     * [01 - Połączenie](https://github.com/inleo-pl/Warsztaty-Docker-Fundamentals/blob/master/01-Polaczenie.md)
     * [02 - Instalacja Docker](https://github.com/inleo-pl/Warsztaty-Docker-Fundamentals/blob/master/02-Instalacja-Docker.md)
 4.	CLI Docker
     * [03 - Pierwsze kroki](https://github.com/inleo-pl/Warsztaty-Docker-Fundamentals/blob/master/03-Pierwsze-kroki.md)
-5.	Storage w kontekście konteneryzacji
+5.	[Storage w kontekście konteneryzacji](https://inleo.pl/blog/wprowadzenie-do-konteneryzacji-3/#storage)
     * [04 - Wolumeny i punkty montowania](https://github.com/inleo-pl/Warsztaty-Docker-Fundamentals/blob/master/04-Wolumeny-i-punkty-montowania.md)
-6.	Obrazy i Rejestry
+6.	[Obrazy i Rejestry](https://inleo.pl/blog/wprowadzenie-do-konteneryzacji-2/)
     * [05 - Obrazy i Docker Hub](https://github.com/inleo-pl/Warsztaty-Docker-Fundamentals/blob/master/05-Obrazy-i-Docker-Hub.md)
     * [06 - Prywatny rejestr](https://github.com/inleo-pl/Warsztaty-Docker-Fundamentals/blob/master/06-Prywatny-rejestr.md)
 7.	Tworzenie i składnia plików Dockerfile
     * [07 - Dockerfile](https://github.com/inleo-pl/Warsztaty-Docker-Fundamentals/blob/master/07-Dockerfile.md)
-8.	Docker a sieć TCP/IP
+8.	[Docker a sieć TCP/IP](https://inleo.pl/blog/wprowadzenie-do-konteneryzacji-3/)
     * [08 - Bridge](https://github.com/inleo-pl/Warsztaty-Docker-Fundamentals/blob/master/08-Bridge.md)
     * [09 - Macvlan](https://github.com/inleo-pl/Warsztaty-Docker-Fundamentals/blob/master/09-Macvlan.md)
 9.	Koncepcja mikroserwisów
