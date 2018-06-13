@@ -33,11 +33,12 @@ sudo docker ps -l
 sudo docker port chochlik_6 80
 curl localhost:[Port]
 ```
+Wyślij obraz do rejestru:
+```
+sudo docker push [user]/static:v1
+```
 Mapowanie portów:
 ```
 sudo docker run -d -p 8080:80 --name chochlik_7 [user]/static nginx -g "daemon off;"
 ```
-Teraz wejdz na adres serwera docker01 z lab na port 8080 poprzez przegladarkę internetową. Wyślij obraz do rejestru:
-```
-sudo docker push [user]/static:v1
-```
+Teraz wejdz na adres serwera docker01 z lab na port 8080 poprzez przegladarkę internetową. 
