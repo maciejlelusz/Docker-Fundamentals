@@ -23,7 +23,7 @@ sudo docker search apache
 ```
 Zakładamy repozytorium na stronie https://hub.docker.com, następnie:
 ```
-docker login
+sudo docker login
 ```
 Przygotowanie pierwszego obrazu:
 ```
