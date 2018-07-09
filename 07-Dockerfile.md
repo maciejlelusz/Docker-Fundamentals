@@ -2,7 +2,7 @@ Stworzenie środowiska pracy:
 ```
 mkdir static
 cd static
-vi Dockerfile
+sudo vi Dockerfile
 ```
 W pliku umieszczamy:
 ```
