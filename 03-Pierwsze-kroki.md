@@ -80,6 +80,6 @@ sudo docker rm -f `sudo docker ps -a -q`
 ```
 Generlane utrzymanie czystości:
 ```
-sudo docker image prune
+sudo docker container prune
 sudo docker system prune --volumes
 ```
